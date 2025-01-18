@@ -2,3 +2,5 @@ avocado
 lime
 salt
 cumin
+garlic
+red onion
